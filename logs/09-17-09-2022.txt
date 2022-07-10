@@ -1,0 +1,3 @@
+>>> ** I don't know how to write release notes. **
+_ Use $hello and they say hello Testing something out for now _
+_ Full Changelog: https://github.com/GoldfishJonny/Henry-Valentine/commits/v0.1 _
